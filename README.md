@@ -350,6 +350,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://congressmcp.lawgiver.ai/favicon.svg" height="14"/> [Congress](https://github.com/amurshak/congressMCP) - Query and reeason about legislative data from Congress.gov
 
 <br />
+- <img src="https://statsnet.co/favicon.ico" height="14"/> [Statsnet](https://github.com/usenetstate/statsnet-mcp) - Background check any company in the world: registration, executives, courts and finances. REMOTE: `https://statsnet.co/mcp` · Registry: `io.github.usenetstate/statsnet`
 
 ## 🤝 <a name="ai-services"></a>AI Services
 
